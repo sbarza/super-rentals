@@ -17,6 +17,8 @@
 /npm-debug.log*
 /testem.log
 /yarn-error.log
+.idea
+*.sublime-project
 
 # ember-try
 /.node_modules.ember-try/
